@@ -1,7 +1,7 @@
 
 # Tarjeta
 
-Dispoible en: https://ronny-minda.github.io/
+Dispoible en: https://ronny-minda.github.io/Tarjeta/
 
 <h3>Desktop</h3>
 <p align="center">
