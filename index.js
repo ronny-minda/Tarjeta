@@ -12,7 +12,7 @@ function mouseDown() {
         var x = e.clientX;
         var y = e.clientY;
         console.log("Coordinates: (" + x + "," + y + ")")
-        tarjeta.style.left = x-250 + "px";
+        tarjeta.style.left = x-200 + "px";
         tarjeta.style.top = y-280 + "px";
     }
 }
